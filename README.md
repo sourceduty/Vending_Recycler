@@ -27,6 +27,8 @@ Dented cans and misshapen plastic bottles could pose additional challenges. The 
 [Manufacturing](https://github.com/sourceduty/Manufacturing)
 <br>
 [Garbage](https://github.com/sourceduty/Garbage)
+<br>
+[Food Design](https://github.com/sourceduty/Food_Design)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
