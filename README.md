@@ -25,6 +25,8 @@ Dented cans and misshapen plastic bottles could pose additional challenges. The 
 [Automated Locations](https://github.com/sourceduty/Automated_Locations)
 <br>
 [Manufacturing](https://github.com/sourceduty/Manufacturing)
+<br>
+[Garbage](https://github.com/sourceduty/Garbage)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
